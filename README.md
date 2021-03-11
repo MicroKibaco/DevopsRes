@@ -1,9 +1,10 @@
 # Devops学习资源
-## 入门
+## 文章推荐
 
 1. [k8s那些事之容器江湖闲话](https://chenzongshu.github.io/posts/k8s%E9%82%A3%E4%BA%9B%E4%BA%8B%E4%B9%8B%E5%AE%B9%E5%99%A8%E6%B1%9F%E6%B9%96%E9%97%B2%E8%AF%9D/)
 
 2. [Docker](https://www.cnblogs.com/CloudMan6/tag/Docker/)
+3. [交易系统架构演进之路（六）：容器化](https://mp.weixin.qq.com/s/YtTy06Wx4Ik_DOrFfSIAcQ)
 
 ## k8s
 
